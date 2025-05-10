@@ -95,10 +95,7 @@ The configuration of the MARLIP project includes both the Python environment and
   conda env create -f environment.yml
   ```
 
-- **C++ Environment Configuration**: The C++ environment setup refers to the installation and configuration of CPLEX software. CPLEX is used to solve the 
-- linear programming model for obtaining the dual factors, as described in Section V-C of the paper. The full name of the software 
-- is [**IBM ILOG CPLEX Optimization Studio**](https://www.ibm.com/cn-zh/products/ilog-cplex-optimization-studio). Ensure that the installed version of CPLEX 
-- is at least IBM ILOG CPLEX Optimization Studio 12.10 or higher.
+- **C++ Environment Configuration**: The C++ environment setup refers to the installation and configuration of CPLEX software. CPLEX is used to solve the linear programming model for obtaining the dual factors, as described in Section V-C of the paper. The full name of the software is [**IBM ILOG CPLEX Optimization Studio**](https://www.ibm.com/cn-zh/products/ilog-cplex-optimization-studio). Ensure that the installed version of CPLEX is at least IBM ILOG CPLEX Optimization Studio 12.10 or higher.
 
 
 ## Run
